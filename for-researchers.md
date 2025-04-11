@@ -4,6 +4,7 @@ title: For Researchers
 permalink: /for-researchers/
 ---
 
+
 ### Grant and research proposal collaboration
 Are you planning to write a proposal that includes the development of a campaign or intervention, or do you need input to develop (stimulus) materials for campaign or intervention research or experiments? Please contact us to see if we can help you develop your proposal or design an appropriate work package to strengthen your proposal.
 
